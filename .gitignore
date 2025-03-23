@@ -2,4 +2,4 @@ venv/
 .env
 pdfs/
 extracts/
-vectod_db/
+vector_db/
