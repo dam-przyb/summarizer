@@ -2,3 +2,4 @@ venv/
 .env
 pdfs/
 extracts/
+vectod_db/
